@@ -1,0 +1,15 @@
+/Users/beytullah/Projects/tekcıfttoplam/tekcıfttoplam/bin/Debug/net7.0/tekcıfttoplam
+/Users/beytullah/Projects/tekcıfttoplam/tekcıfttoplam/bin/Debug/net7.0/tekcıfttoplam.deps.json
+/Users/beytullah/Projects/tekcıfttoplam/tekcıfttoplam/bin/Debug/net7.0/tekcıfttoplam.runtimeconfig.json
+/Users/beytullah/Projects/tekcıfttoplam/tekcıfttoplam/bin/Debug/net7.0/tekcıfttoplam.dll
+/Users/beytullah/Projects/tekcıfttoplam/tekcıfttoplam/bin/Debug/net7.0/tekcıfttoplam.pdb
+/Users/beytullah/Projects/tekcıfttoplam/tekcıfttoplam/obj/Debug/net7.0/tekcıfttoplam.csproj.AssemblyReference.cache
+/Users/beytullah/Projects/tekcıfttoplam/tekcıfttoplam/obj/Debug/net7.0/tekcıfttoplam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beytullah/Projects/tekcıfttoplam/tekcıfttoplam/obj/Debug/net7.0/tekcıfttoplam.AssemblyInfoInputs.cache
+/Users/beytullah/Projects/tekcıfttoplam/tekcıfttoplam/obj/Debug/net7.0/tekcıfttoplam.AssemblyInfo.cs
+/Users/beytullah/Projects/tekcıfttoplam/tekcıfttoplam/obj/Debug/net7.0/tekcıfttoplam.csproj.CoreCompileInputs.cache
+/Users/beytullah/Projects/tekcıfttoplam/tekcıfttoplam/obj/Debug/net7.0/tekcıfttoplam.dll
+/Users/beytullah/Projects/tekcıfttoplam/tekcıfttoplam/obj/Debug/net7.0/refint/tekcıfttoplam.dll
+/Users/beytullah/Projects/tekcıfttoplam/tekcıfttoplam/obj/Debug/net7.0/tekcıfttoplam.pdb
+/Users/beytullah/Projects/tekcıfttoplam/tekcıfttoplam/obj/Debug/net7.0/tekcıfttoplam.genruntimeconfig.cache
+/Users/beytullah/Projects/tekcıfttoplam/tekcıfttoplam/obj/Debug/net7.0/ref/tekcıfttoplam.dll
